@@ -1,2 +1,2 @@
 # maha-logos
-Maha Software Logos in CSS
+All of the Maha Software Logos in CSS
